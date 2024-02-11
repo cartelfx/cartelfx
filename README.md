@@ -1,11 +1,10 @@
 <h1 align="center"> </CARTELFX>  
 
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines="LANGUAGES" alt="Typing SVG" /></h2>
  <h2 align="center">
  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,php, mongo,redis&theme=dark" />
  </h2>
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord" alt="Typing SVG" /></h1>
 
 <h2 align="center">
  <a href="https://discord.com/users/719117042904727635"><img  width="400px" src="https://lanyard.kyrie25.me/api/719117042904727635?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=cartelfx"></a>
