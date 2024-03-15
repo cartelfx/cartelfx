@@ -7,8 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![GitHub](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS&logoColor=007ACC)&nbsp;
 
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
