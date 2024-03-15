@@ -1,18 +1,18 @@
-<h1 align="center"> </CARTELFX>  
+# Hi I am cartelfx
+![profile count](https://komarev.com/ghpvc/?username=cartelfx&color=red)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/cartelfx?label=follow&style=social)](https://github.com/cartelfx)&nbsp;
+<a href="https://instagram.com/cartelfxc02"><img src="https://img.shields.io/badge/@cartelfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
- <h2 align="center">
- <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,php,mongo&theme=dark" />
- </h2>
+## Langauges I Know:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![GitHub](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord" alt="Typing SVG" /></h1>
 
-<h2 align="center">
- <a href="https://discord.com/users/719117042904727635"><img  width="400px" src="https://lanyard.kyrie25.me/api/719117042904727635?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=cartelfx"></a>
-<br> </br>
-<a href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31twqnla6m7uambjedvli2olzkm4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
- </h2>
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=cartelfx&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
- <img src="https://github-readme-stats.vercel.app/api?username=cartelfx&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<h3 align="left">:bar_chart: GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=cartelfx&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=cartelfx&theme=radical" />
+</p>
