@@ -8,9 +8,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS&logoColor=007ACC)&nbsp;
-![EJS](https://i.hizliresim.com/7jy7aqh.png)
-
+![EJS](https://img.shields.io/badge/-ejs-05122A?style=flat&logo=ejs&logoColor=007ACC)&nbsp;
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
