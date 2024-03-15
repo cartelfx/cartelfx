@@ -1,5 +1,5 @@
 # Hi I am cartelfx
-![profile count](https://komarev.com/ghpvc/?username=cartelfx&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=cartelfx&color=blue)&nbsp;
 [![GitHub Stats](https://img.shields.io/github/followers/cartelfx?label=follow&style=social)](https://github.com/cartelfx)&nbsp;
 <a href="https://instagram.com/cartelfxc02"><img src="https://img.shields.io/badge/@cartelfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS&logoColor=007ACC)&nbsp;
+[url=https://hizliresim.com/7jy7aqh][img]https://i.hizliresim.com/7jy7aqh.png[/img][/url]
 
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
