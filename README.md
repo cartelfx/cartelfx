@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS&logoColor=007ACC)&nbsp;
-[url=https://hizliresim.com/7jy7aqh][img]https://i.hizliresim.com/7jy7aqh.png[/img][/url]
+![EJS](https://i.hizliresim.com/7jy7aqh.png)
 
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
